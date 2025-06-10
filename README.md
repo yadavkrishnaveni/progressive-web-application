@@ -40,5 +40,5 @@ Linkable – Easily shared via URL, avoiding complex installation.
 
 #output
 
+![progressive web ss](https://github.com/user-attachments/assets/8e8b01b0-c281-44c3-bfe4-00e398fb3a6d)
 
-![Uploading progressive web ss.jpg…]()
