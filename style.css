@@ -1,0 +1,14 @@
+<nav class="navbar">
+  <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="courses.html">Courses</a></li>
+    <li><a href="progress.html">Progress</a></li>
+    <li><a href="about.html">About</a></li>
+  </ul>
+</nav>
+
+<section class="hero">
+  <h1>Welcome to LearnHub</h1>
+  <p>Your gateway to knowledge and skills.</p>
+  <a href="courses.html" class="btn">Browse Courses</a>
+</section>
